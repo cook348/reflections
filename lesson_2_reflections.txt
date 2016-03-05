@@ -3,3 +3,13 @@ It creates a .git directory so it can start tracking your files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an area to organize the current changes and/or new files that are going to be added to the next commit.  This provides focus and organization.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You don't have to put all the files that have been changed since the last commit there, just the ones that correspond to a logical change.  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would help when projects diverge from each other or to work on major experiments that may be thrown away.  
+
+How do the diagrams help you visualize the branch structure?
+They give you an intuitive visual representation of the history of the commits in the repo.
+
